@@ -1,1 +1,56 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Protv.ro" tvg-name="Pro TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/P5jnLzn.png" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Romanian",Pro TV
+http://hls.protv.md/hls/protv.m3u8
 
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1
+https://ivm.antenaplay.ro/live/a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Antena3.ro" tvg-name="Antena 3" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Antena_3_%282016-present%29.png" group-title="News",Antena 3
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenaComedy.ro" tvg-name="Antena Comedy" tvg-country="RO" tvg-language="" tvg-logo="" group-title="Comedy",Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenaCookandPLay.ro" tvg-name="Antena Cook and PLay" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",Antena Cook and PLay
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
+
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UnkDhbr.png" group-title="Lifestyle",Antena Stars
+https://ivm.antenaplay.ro/live/astars/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B1.ro" tvg-name="B1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="News",B1
+https://stream.adunity.com/b1/b1.m3u8
+
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Digi 24 (720p)
+http://d-e-02.cdn.rdsnet.ro/DVR/digi24hdb.stream/playlit.m3u8
+
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Happy_Channel_%282020-present%29.png" group-title="Entertainment",Happy Channel
+https://ivm.antenaplay.ro/live/happy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Kanal_D_Romania.png" group-title="General",Kanal D
+https://stream1.kanald.ro/iphone/live.m3u8
+
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/oLuxC2P.png" group-title="General",Prima TV
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
+
+#EXTINF:-1 tvg-id="RealitateaTV.ro" tvg-name="Realitatea TV" tvg-country="RO" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/realitateatv.png" group-title="",Realitatea TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-country="RO" tvg-language="" tvg-logo="" group-title="",TVR 1
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="TVR 3" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/k6Qx4vl.png" group-title="General",TVR 3
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="-------MUZICA-------" tvg-logo="" group-title="MUZICA",-------MUZICA-------
+
+#EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url="" group-title="Romanian",1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",UTV
+http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZUTV.ro" tvg-name="ZU TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",ZU TV
+https://ivm.antenaplay.ro/live/zutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/SgOwcq7.png" tvg-country="RO" tvg-url="" group-title="Romanian",Pro 2
+https://vid.hls.protv.ro/pro2n/pro2.m3u8?1
